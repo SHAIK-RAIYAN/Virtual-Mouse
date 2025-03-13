@@ -1,0 +1,17 @@
+Here is the comprehensive plan for executing the virtual mouse project:
+
+### Plan:
+1. **Ensure Dependencies are Installed**: 
+   - Confirm that the required libraries (`opencv-python`, `mediapipe`, `pyautogui`, and `tkinter`) are installed in the virtual environment. Since you have already run the installation command, this step should be complete.
+
+2. **Run the Main Application**:
+   - Execute the `mlproject.py` file, which serves as the main entry point for the application. This file initializes the GUI and starts the hand and eye detection functionalities.
+
+3. **Select Control Method**:
+   - Once the application is running, you will see buttons for "Virtual Mouse Using Hand" and "Virtual Mouse Using Eye." Click on the desired button to start the corresponding detection method.
+
+4. **Testing**:
+   - Test the functionality by moving your hand or eyes in front of the webcam to see if the mouse cursor responds accordingly. Ensure that the clicking and movement features work as intended.
+
+5. **Troubleshooting**:
+   - If you encounter any issues, check the console for error messages and ensure that the webcam is functioning properly. Adjust the camera angle or lighting if necessary.
